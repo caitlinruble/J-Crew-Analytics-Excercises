@@ -17,7 +17,7 @@ I've used pandas and pandasql to load the sample databases, augment them with a 
 
 2. [Q2--Mean Cart Value by Year Cohort](https://github.com/caitlinruble/J-Crew-Analytics-Excercises/blob/bfe4a6ddc772e3eca497799cf1c1c06d463fd92a/SQL%20Q2_Mean%20cart%20value%20by%20year%20cohort.sql) 
 
-3. [Q3-Difference in Value Between First and Second Cart Order by Customer](https://github.com/caitlinruble/J-Crew-Analytics-Excercises/blob/bfe4a6ddc772e3eca497799cf1c1c06d463fd92a/SQL%20Q3_Difference%20between%20first%20and%20second%20cart%20order%20by%20customer.sql) 
+3. [Q3--Difference in Value Between First and Second Cart Order by Customer](https://github.com/caitlinruble/J-Crew-Analytics-Excercises/blob/bfe4a6ddc772e3eca497799cf1c1c06d463fd92a/SQL%20Q3_Difference%20between%20first%20and%20second%20cart%20order%20by%20customer.sql) 
 
 **These should be considered my final answers**, though the SQLite queries in the notebook show my experimentation process and the results of running these queries with the provided sample data. Please note that SQLlite has some subtle syntax differences from MySQL.
 
