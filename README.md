@@ -13,7 +13,9 @@ You work for J.Crew. J.Crew has just acquired Madewell and you're working with a
 ### My approach: 
 I've used pandas and pandasql to load the sample databases, augment them with a little more mock data and ensure my queries are working. I've written the MySQL/PostgreSQL versions of the queries as commented-out code cells within [this notebook](https://github.com/caitlinruble/J-Crew-Analytics-Excercises/blob/bfe4a6ddc772e3eca497799cf1c1c06d463fd92a/JCrew%20Analytics%20Exercises.ipynb), and I have also saved these to individual .sql files: 
 
+
 1. [Q1--Monthly Sales by Family Size](https://github.com/caitlinruble/J-Crew-Analytics-Excercises/blob/bfe4a6ddc772e3eca497799cf1c1c06d463fd92a/SQL%20Q1_Monthly%20Sales%20by%20Family%20Size.sql) 
+<img width="1134" alt="Screen Shot 2022-10-31 at 12 18 34 PM" src="https://user-images.githubusercontent.com/96548036/199057193-3549ce74-1893-4e80-af17-8be256a8f59d.png">
 
 2. [Q2--Mean Cart Value by Year Cohort](https://github.com/caitlinruble/J-Crew-Analytics-Excercises/blob/bfe4a6ddc772e3eca497799cf1c1c06d463fd92a/SQL%20Q2_Mean%20cart%20value%20by%20year%20cohort.sql) 
 
