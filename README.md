@@ -21,6 +21,7 @@ I've used pandas and pandasql to load the sample databases, augment them with a 
 <img width="1109" alt="Screen Shot 2022-10-31 at 12 24 18 PM" src="https://user-images.githubusercontent.com/96548036/199058406-8e39c7f1-d27e-41c8-9c3e-3e8d01fc62a1.png">
 
 ![image](https://user-images.githubusercontent.com/96548036/199061054-31546cd6-da8b-4d25-ba37-f383786dfbcd.png)
+<img width="596" alt="Screen Shot 2022-10-31 at 12 38 51 PM" src="https://user-images.githubusercontent.com/96548036/199061293-1b378a1e-f439-4feb-a2f3-680ce4e90e49.png">
 
 
 
