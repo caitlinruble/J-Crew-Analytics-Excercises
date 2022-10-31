@@ -11,7 +11,7 @@ Feel free to submit in whatever format you're most comfortable with."
 You work for J.Crew. J.Crew has just acquired Madewell and you're working with a team that is trying to understand the Madewell business and opportunities to cross-sell to loyalty members.
 
 ### My approach: 
-I've used pandas and pandasql to load the sample databases, augment them with a little more mock data and ensure my queries are working. I've written the MySQL/PostgreSQL versions of the queries as commented-out code cells within [this notebook](JCrew Analytics Exercises.ipynb), and I have also saved these to individual .sql files: 
+I've used pandas and pandasql to load the sample databases, augment them with a little more mock data and ensure my queries are working. I've written the MySQL/PostgreSQL versions of the queries as commented-out code cells within [this notebook](https://github.com/caitlinruble/J-Crew-Analytics-Excercises/blob/bfe4a6ddc772e3eca497799cf1c1c06d463fd92a/JCrew%20Analytics%20Exercises.ipynb), and I have also saved these to individual .sql files: 
 
 1. [Q1--Monthly Sales by Family Size](https://github.com/caitlinruble/J-Crew-Analytics-Excercises/blob/bfe4a6ddc772e3eca497799cf1c1c06d463fd92a/SQL%20Q1_Monthly%20Sales%20by%20Family%20Size.sql) 
 
