@@ -18,8 +18,12 @@ I've used pandas and pandasql to load the sample databases, augment them with a 
 <img width="1134" alt="Screen Shot 2022-10-31 at 12 18 34 PM" src="https://user-images.githubusercontent.com/96548036/199057193-3549ce74-1893-4e80-af17-8be256a8f59d.png">
 
 2. [Q2--Mean Cart Value by Year Cohort](https://github.com/caitlinruble/J-Crew-Analytics-Excercises/blob/bfe4a6ddc772e3eca497799cf1c1c06d463fd92a/SQL%20Q2_Mean%20cart%20value%20by%20year%20cohort.sql) 
+<img width="1132" alt="Screen Shot 2022-10-31 at 12 20 57 PM" src="https://user-images.githubusercontent.com/96548036/199057664-ffd663ca-2fc6-4f82-9a33-e7254b0f2d4a.png">
+
 
 3. [Q3--Difference in Value Between First and Second Cart Order by Customer](https://github.com/caitlinruble/J-Crew-Analytics-Excercises/blob/bfe4a6ddc772e3eca497799cf1c1c06d463fd92a/SQL%20Q3_Difference%20between%20first%20and%20second%20cart%20order%20by%20customer.sql) 
+<img width="1031" alt="Screen Shot 2022-10-31 at 12 21 29 PM" src="https://user-images.githubusercontent.com/96548036/199057779-93fd3c85-2062-4243-9f52-84a4c820f64a.png">
+
 
 **These should be considered my final answers**, though the SQLite queries in the notebook show my experimentation process and the results of running these queries with the provided sample data. Please note that SQLlite has some subtle syntax differences from MySQL.
 
