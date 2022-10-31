@@ -9,8 +9,8 @@ WITH
    DATE_FORMAT(ch.date, '%m-%Y') AS month_year, 
      CASE
        WHEN cu.family_size = 1 THEN 'Single'
-       WHEN cu. family_size = 2 THEN 'Couple'
-       WHEN cu. family_size > 5  THEN 'Large Family'
+       WHEN cu.family_size = 2 THEN 'Couple'
+       WHEN cu.family_size > 5  THEN 'Large Family'
        ELSE 'Family'
      END AS customer_type,
     cu.family_size
