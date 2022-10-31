@@ -1,4 +1,4 @@
-# J-Crew-Analytics-Excercises
+# J-Crew-Analytics-Exercises
 
 ## Take Home Analytics Excercises
 ### Caitlin Ruble
