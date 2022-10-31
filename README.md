@@ -15,7 +15,8 @@ I've used pandas and pandasql to load the sample databases, augment them with a 
 
 
 1. [Q1--Monthly Sales by Family Size](https://github.com/caitlinruble/J-Crew-Analytics-Excercises/blob/bfe4a6ddc772e3eca497799cf1c1c06d463fd92a/SQL%20Q1_Monthly%20Sales%20by%20Family%20Size.sql) 
-<img width="1134" alt="Screen Shot 2022-10-31 at 12 18 34 PM" src="https://user-images.githubusercontent.com/96548036/199057193-3549ce74-1893-4e80-af17-8be256a8f59d.png">
+<img width="1109" alt="Screen Shot 2022-10-31 at 12 24 18 PM" src="https://user-images.githubusercontent.com/96548036/199058406-8e39c7f1-d27e-41c8-9c3e-3e8d01fc62a1.png">
+
 
 2. [Q2--Mean Cart Value by Year Cohort](https://github.com/caitlinruble/J-Crew-Analytics-Excercises/blob/bfe4a6ddc772e3eca497799cf1c1c06d463fd92a/SQL%20Q2_Mean%20cart%20value%20by%20year%20cohort.sql) 
 <img width="1132" alt="Screen Shot 2022-10-31 at 12 20 57 PM" src="https://user-images.githubusercontent.com/96548036/199057664-ffd663ca-2fc6-4f82-9a33-e7254b0f2d4a.png">
