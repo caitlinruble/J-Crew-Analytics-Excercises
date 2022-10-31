@@ -18,9 +18,9 @@ I've used pandas and pandasql to load the sample databases, augment them with a 
 ## Results
 
 ### 1. [Q1--Monthly Sales by Family Size](https://github.com/caitlinruble/J-Crew-Analytics-Excercises/blob/bfe4a6ddc772e3eca497799cf1c1c06d463fd92a/SQL%20Q1_Monthly%20Sales%20by%20Family%20Size.sql) 
-<img width="575" alt="Screen Shot 2022-10-31 at 12 24 18 PM" src="https://user-images.githubusercontent.com/96548036/199058406-8e39c7f1-d27e-41c8-9c3e-3e8d01fc62a1.png">
+<img width="1100" alt="Screen Shot 2022-10-31 at 12 24 18 PM" src="https://user-images.githubusercontent.com/96548036/199058406-8e39c7f1-d27e-41c8-9c3e-3e8d01fc62a1.png">
 
-<img width="575" alt="Screen Shot 2022-10-31 at 12 38 51 PM" src="https://user-images.githubusercontent.com/96548036/199061293-1b378a1e-f439-4feb-a2f3-680ce4e90e49.png">
+<img width="750" alt="Screen Shot 2022-10-31 at 12 38 51 PM" src="https://user-images.githubusercontent.com/96548036/199061293-1b378a1e-f439-4feb-a2f3-680ce4e90e49.png">
 
 
 
