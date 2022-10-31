@@ -26,10 +26,14 @@ I've used pandas and pandasql to load the sample databases, augment them with a 
 
 2. [Q2--Mean Cart Value by Year Cohort](https://github.com/caitlinruble/J-Crew-Analytics-Excercises/blob/bfe4a6ddc772e3eca497799cf1c1c06d463fd92a/SQL%20Q2_Mean%20cart%20value%20by%20year%20cohort.sql) 
 <img width="1132" alt="Screen Shot 2022-10-31 at 12 20 57 PM" src="https://user-images.githubusercontent.com/96548036/199057664-ffd663ca-2fc6-4f82-9a33-e7254b0f2d4a.png">
+<img width="750" alt="Screen Shot 2022-10-31 at 12 41 17 PM" src="https://user-images.githubusercontent.com/96548036/199061798-1bfd02a2-a4a0-41a2-a242-d243fff6c8a5.png">
+
+
 
 
 3. [Q3--Difference in Value Between First and Second Cart Order by Customer](https://github.com/caitlinruble/J-Crew-Analytics-Excercises/blob/bfe4a6ddc772e3eca497799cf1c1c06d463fd92a/SQL%20Q3_Difference%20between%20first%20and%20second%20cart%20order%20by%20customer.sql) 
 <img width="1031" alt="Screen Shot 2022-10-31 at 12 21 29 PM" src="https://user-images.githubusercontent.com/96548036/199057779-93fd3c85-2062-4243-9f52-84a4c820f64a.png">
 
+<img width="750" alt="Screen Shot 2022-10-31 at 12 41 38 PM" src="https://user-images.githubusercontent.com/96548036/199061870-820794bf-031d-4c81-94f7-ef126b29aaf8.png">
 
 
